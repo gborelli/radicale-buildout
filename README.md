@@ -1,4 +1,4 @@
 RADICALE
 ========
 
-See: radicale.org/
+See: http://radicale.org/
